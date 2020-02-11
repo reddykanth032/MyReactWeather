@@ -6,7 +6,7 @@ var React = require('react');
 //       <h3>Examples Component</h3>
 //     )
 //   }
-// });
+// }); ////////
 
 var Examples=(props)=>{
   return (
