@@ -12,7 +12,7 @@ var Examples=(props)=>{
   return (
     <div>
       <h3>Examples </h3>
-      <h3>Welcome to Example </h3>
+      <p>Welcome to Example page!</p>
     </div>
 
   );
