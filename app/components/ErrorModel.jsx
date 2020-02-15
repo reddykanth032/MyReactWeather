@@ -1,7 +1,7 @@
 var React =require('react');
 var ReactDOM =require('react-dom');
 var ReactDOMServer=require('react-dom/server');
-
+//previous commit was for fixing the error model
 var ErrorModel=React.createClass({
   getDefaultProps:function(){
     return{
