@@ -10,7 +10,7 @@
   "author": "Kanth Reddy",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.9.1",
+    "axios": "^0.21.1",
     "express": "^4.13.4",
     "react": "^0.14.7",
     "react-devtools": "^3.6.3",
